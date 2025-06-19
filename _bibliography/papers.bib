@@ -1,6 +1,29 @@
 ---
 ---
 
+@article{liu2025mka,
+    title = {MKA: Memory-Keyed Attention for Efficient Long-Context Reasoning},
+    journal={ICML Long Context Foundation Models (LCFM)},
+    author = {Liu, Dong and Yu, Yanxuan and Wang, Xuhong and Lengerich, Ben and Wu, Ying Nian},
+    abstract = {As long-context language modeling becomes increasingly important, the cost of maintaining
+      and attending to large Key/Value (KV) caches
+      grows rapidly, becoming a major bottleneck in
+      both training and inference. While prior works
+      such as Multi-Query Attention (MQA) and MultiLatent Attention (MLA) reduce memory by sharing or compressing KV features, they often trade
+      off representation quality or incur runtime overhead. We propose Memory-Keyed Attention
+      (MKA), a hierarchical attention mechanism that
+      integrates multi-level KV caches—local, session,
+      and long-term—and learns to route attention
+      across them dynamically. We further introduce
+      FastMKA, a broadcast-routed variant that fuses
+      memory sources before attention computation for
+      enhanced efficiency. Experiments on different
+      sequence lengths show that MKA improves perplexity over MHA and MLA, while FastMKA
+      achieves comparable accuracy to MLA with up
+      to 4× faster training and 40% lower evaluation
+      latency. These results highlight MKA as a practical and extensible framework for efficient longcontext attention.},
+    year = {2025}
+}
 
 @article{liu2025fastcache,
   title={FastCache: Fast Caching for Diffusion Transformer Through Learnable Linear Approximation},
