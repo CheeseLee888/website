@@ -30,7 +30,7 @@ profiles:
 
 ---
 
-## Undergraduate research assistants [active projects]:
+## Undergraduate research assistants:
 
 - Dong Liu, [[Efficient Foundation Models](/projects/4_efficient_foundation)]
 - Amy Cai, [[Context-adaptive systems](/projects/1_contextualized), [Maternal health](/projects/7_maternal)]
