@@ -86,6 +86,10 @@ jobs:
         run: |
           npm install -g purgecss
           purgecss -c purgecss.config.js
+      - name: Add dgm-fall-2025 to build output
+        run: |
+          echo "📦 Copying prebuilt subsite..."
+          cp -r ./dgm-fall-2025 ./_site/dgm-fall-2025
       - name: Deploy 🚀
         if: github.event_name != 'pull_request'
         uses: JamesIves/github-pages-deploy-action@v4
