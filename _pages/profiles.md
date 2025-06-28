@@ -33,6 +33,6 @@ profiles:
 ## Undergraduate research assistants:
 
 - Dong Liu, [[Efficient Foundation Models](/projects/4_efficient_foundation)]
-- Amy Cai, [[Context-adaptive systems](/projects/1_contextualized), [Maternal health](/projects/7_maternal)]
-- Luke Weiss, [[Context-adaptive systems](/projects/1_contextualized), [Maternal health](/projects/7_maternal)]
-- Peter Lee, [[Context-adaptive systems](/projects/1_contextualized)]
+- Amy Cai, [[Contextualized models](/projects/1_contextualized), [Maternal health](/projects/7_maternal)]
+- Luke Weiss, [[Contextualized models](/projects/1_contextualized), [Maternal health](/projects/7_maternal)]
+- Peter Lee, [[Contextualized models](/projects/1_contextualized)]
