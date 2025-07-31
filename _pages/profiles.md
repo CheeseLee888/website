@@ -30,9 +30,19 @@ profiles:
 
 ---
 
+## Master's students:
+
+- Yue Yao, [[Contextualized models](/projects/1_contextualized)]
+
 ## Undergraduate research assistants:
 
 - Dong Liu, [[Efficient Foundation Models](/projects/4_efficient_foundation)]
 - Amy Cai, [[Contextualized models](/projects/1_contextualized), [Maternal health](/projects/7_maternal)]
-- Luke Weiss, [[Contextualized models](/projects/1_contextualized), [Maternal health](/projects/7_maternal)]
 - Peter Lee, [[Contextualized models](/projects/1_contextualized)]
+- Kushal Patel, [[Contextualized models](/projects/1_contextualized)]
+- Jojo Qiao, [[Contextualized models](/projects/1_contextualized)]
+
+## Remote collaborators:
+
+- Lama Salem, [[Personalized genomics](/projects/5_personalized_genomics)]
+- [Caleb Ellington](https://cnellington.github.io/), [[Contextualized models](/projects/1_contextualized), [Personalized genomics](/projects/5_personalized_genomics)]
