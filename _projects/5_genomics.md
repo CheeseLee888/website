@@ -16,6 +16,7 @@ related_publications: true
 
 Genomics and epigenetics provide high-resolution views of the diversity and heterogeneity of populations at the cellular level. We are building computational tools to transform these _observations_ into _understanding_ of disease mecahnisms.
 
+{% nocite ellington2025virtual %}
 {% nocite ellington2025learning %}
 {% nocite wang2018precision %}
 {% nocite lee2022ten %}
