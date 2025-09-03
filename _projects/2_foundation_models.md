@@ -22,7 +22,6 @@ We are building a bi-directional bridge between foundation models and structured
     <li>Using FMs to improve statistical inference {% cite mahbub2024one %}</li>
     <li>Using FMs to automatically understand statistical models {% cite bordt2024data %} {% cite lengerich2023llms %} </li>
 </ul>
-Our work on <a href="https://incontext.ml">InContextML</a> supports this integration with structured prompting and retrieval-augmented inference.
 </p>
 
 <br/><br/>
